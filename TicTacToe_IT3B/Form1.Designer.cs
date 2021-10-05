@@ -45,7 +45,7 @@
             // b1
             // 
             this.b1.Location = new System.Drawing.Point(8, 23);
-            this.b1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.b1.Margin = new System.Windows.Forms.Padding(2);
             this.b1.Name = "b1";
             this.b1.Size = new System.Drawing.Size(65, 52);
             this.b1.TabIndex = 0;
@@ -56,7 +56,7 @@
             // b4
             // 
             this.b4.Location = new System.Drawing.Point(8, 79);
-            this.b4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.b4.Margin = new System.Windows.Forms.Padding(2);
             this.b4.Name = "b4";
             this.b4.Size = new System.Drawing.Size(65, 52);
             this.b4.TabIndex = 0;
@@ -67,7 +67,7 @@
             // b7
             // 
             this.b7.Location = new System.Drawing.Point(8, 135);
-            this.b7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.b7.Margin = new System.Windows.Forms.Padding(2);
             this.b7.Name = "b7";
             this.b7.Size = new System.Drawing.Size(65, 52);
             this.b7.TabIndex = 0;
@@ -78,7 +78,7 @@
             // b8
             // 
             this.b8.Location = new System.Drawing.Point(78, 135);
-            this.b8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.b8.Margin = new System.Windows.Forms.Padding(2);
             this.b8.Name = "b8";
             this.b8.Size = new System.Drawing.Size(65, 52);
             this.b8.TabIndex = 0;
@@ -89,7 +89,7 @@
             // b5
             // 
             this.b5.Location = new System.Drawing.Point(78, 79);
-            this.b5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.b5.Margin = new System.Windows.Forms.Padding(2);
             this.b5.Name = "b5";
             this.b5.Size = new System.Drawing.Size(65, 52);
             this.b5.TabIndex = 0;
@@ -100,7 +100,7 @@
             // b2
             // 
             this.b2.Location = new System.Drawing.Point(78, 23);
-            this.b2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.b2.Margin = new System.Windows.Forms.Padding(2);
             this.b2.Name = "b2";
             this.b2.Size = new System.Drawing.Size(65, 52);
             this.b2.TabIndex = 0;
@@ -111,7 +111,7 @@
             // b9
             // 
             this.b9.Location = new System.Drawing.Point(147, 135);
-            this.b9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.b9.Margin = new System.Windows.Forms.Padding(2);
             this.b9.Name = "b9";
             this.b9.Size = new System.Drawing.Size(65, 52);
             this.b9.TabIndex = 0;
@@ -122,7 +122,7 @@
             // b6
             // 
             this.b6.Location = new System.Drawing.Point(147, 79);
-            this.b6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.b6.Margin = new System.Windows.Forms.Padding(2);
             this.b6.Name = "b6";
             this.b6.Size = new System.Drawing.Size(65, 52);
             this.b6.TabIndex = 0;
@@ -133,7 +133,7 @@
             // b3
             // 
             this.b3.Location = new System.Drawing.Point(147, 23);
-            this.b3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.b3.Margin = new System.Windows.Forms.Padding(2);
             this.b3.Name = "b3";
             this.b3.Size = new System.Drawing.Size(65, 52);
             this.b3.TabIndex = 0;
@@ -176,7 +176,7 @@
             this.Controls.Add(this.b1);
             this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "TicTacToe";
